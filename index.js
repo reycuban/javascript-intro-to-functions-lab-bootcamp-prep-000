@@ -21,12 +21,15 @@ function sayHiToGrandma(string) {
    }
    else if(string === toUpperCase) {
      retuns "YES INDED";
-   } else if(string === "I love you, Grandma") {
+   } 
+   else if(string === "I love you, Grandma") {
      return "I love you, too.";
    }
    else {
      undefined;
    }
+}
+   
   /*if(string.toLowerCase() === string) {
        return "I can't hear you!"
    } else if(string.toUpperCase() === srting) {
@@ -37,5 +40,5 @@ function sayHiToGrandma(string) {
      undefined
    }*/
 
-   }
+  
  
