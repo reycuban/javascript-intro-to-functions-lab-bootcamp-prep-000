@@ -17,10 +17,10 @@ function logWhisper(string) {
 
 function sayHiToGrandma(string) {
    if(string === toLowerCase) {
-     returns "I can't hear you!";
+     return "I can't hear you!";
    }
    else if(string === toUpperCase) {
-     retuns "YES INDED";
+     return "YES INDED";
    } 
    else if(string === "I love you, Grandma.") {
      return "I love you, too.";
